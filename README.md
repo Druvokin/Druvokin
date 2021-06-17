@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Druvokin
-- 👀 I’m interested in programming, jungling, and running!
+- 👀 I’m interested in programming, juggling, and running!
 - 🌱 I’m currently learning web development in The Odin Project
 - 💞️ I’m looking to collaborate on nothing right now haha!
 - 📫 How to reach me is by sending me an email to jiropuge@gmail.com
